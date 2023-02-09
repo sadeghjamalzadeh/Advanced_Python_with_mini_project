@@ -1,0 +1,6 @@
+Write programs that by getting n from the input, the multiplication table of numbers from 1 to
+print n.
+n = 3
+1 2 3
+2 4 6
+3 6 9
