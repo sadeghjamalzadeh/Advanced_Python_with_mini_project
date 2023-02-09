@@ -1,0 +1,6 @@
+The first thing a program needs to do is to be able to talk to the outside world.
+For this, you can use the print command
+Write the following line:
+print("Hello world!")
+
+By running this program, you will see that the phrase Hello world! will be printed.
